@@ -1,0 +1,33 @@
+[
+    {
+        "name": "lemon rice",
+        "ingredients": [
+            "lemon",
+            "salt",
+            "rice",
+            "oil"
+        ],
+        "instructions": "add lemon, salt, rice, and mix it"
+    },
+    {
+        "name": "lemon rice",
+        "ingredients": [
+            "lemon juice",
+            "salt",
+            "oil",
+            "rice",
+            ""
+        ],
+        "instructions": "add lemon juice, salt, add rice, and mix it well"
+    },
+    {
+        "name": "curd rice",
+        "ingredients": [
+            "curd",
+            "rice",
+            "salt",
+            "water"
+        ],
+        "instructions": "add curd, salt, rice, water and mix it well"
+    }
+]
